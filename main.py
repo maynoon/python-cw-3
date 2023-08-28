@@ -7,7 +7,7 @@ favorite_animals.pop(2)
 
 favorite_animals.append("bird")
 for animal in favorite_animals :
-    print(f"I love ", animal)
+    print(f"I love  {animal}")
 
 numbers=[1,2,3,4,5]
 number_sum=[0]
