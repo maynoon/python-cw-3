@@ -10,8 +10,8 @@ for animal in favorite_animals :
     print(f"I love  {animal}")
 
 numbers=[1,2,3,4,5]
-number_sum=[0]
+number_sum=0
 
 for num in numbers :
-    number_sum.append (num+num)
+    number_sum  += (num)
 print(number_sum)
